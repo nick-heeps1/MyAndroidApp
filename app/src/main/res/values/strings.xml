@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="select_your_destination_currency">select your destination currency</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="select_your_source_currency">select your source currency</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="source">source</string>
+    <string name="destination">destination</string>
+    <string name="e_g_100">e.g. 100</string>
+    <string name="unitdestination">unit destination</string>
+    <string name="unitsource">unit source</string>
+</resources>
